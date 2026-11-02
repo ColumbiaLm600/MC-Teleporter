@@ -11,6 +11,7 @@ Ein Teleporter für Minecraft, programmiert in **Lua** mit der Mod **ComputerCra
 - **Erst besprechen, dann programmieren:** Funktionsumfang und Aufbau werden gemeinsam mit dem Nutzer abgestimmt, bevor Code geschrieben wird.
 - Noch offen: genaue CC: Tweaked-Version auf dem Server.
 - Das abgestimmte Konzept (Telefon-Prinzip, Ablauf, MVP-Umfang, offene Prüfpunkte) steht in `Konzept.md`. Vor Änderungen am Funktionsumfang lesen und bei neuen Absprachen aktualisieren.
+- Sitzungsprotokolle (Stand, offene Punkte, Sitzungscode) liegen in `Sitzungen/`. Zu Beginn das neueste lesen, am Ende einer Sitzung auf Wunsch ein neues anlegen.
 - Das GitHub-Repository (`ColumbiaLm600/MC-Teleporter`) ist bewusst **öffentlich**, damit das Installationsprogramm im Spiel direkt von GitHub herunterladen kann.
 
 ## Nutzer
