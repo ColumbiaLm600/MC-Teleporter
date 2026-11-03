@@ -1,6 +1,6 @@
 # Konzept: MC-Teleporter (MVP)
 
-Stand: 2026-11-03, gemeinsam abgestimmt.
+Stand: 2026-11-03, gemeinsam abgestimmt. **MVP im Spiel getestet und funktioniert (2026-11-03).**
 
 ## Idee
 

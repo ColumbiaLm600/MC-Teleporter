@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Projekt
 
-Ein Teleporter für Minecraft, programmiert in **Lua** mit der Mod **ComputerCraft** (aktuell gepflegt als **CC: Tweaked**). Das Projekt steht noch ganz am Anfang. Es gibt noch keinen Code, kein Build-System und keine Tests.
+Ein Teleporter für Minecraft, programmiert in **Lua** mit der Mod **ComputerCraft** (aktuell gepflegt als **CC: Tweaked**). Das MVP läuft (im Spiel getestet am 2026-11-03). Es gibt kein Build-System und keine automatischen Tests; getestet wird im Spiel.
+
+Dateien: `install.lua` (Installationsprogramm für beide Computer), `telefon.lua` (normaler Computer, für alle Spieler), `steuerung.lua` (Command Computer). Aufbau siehe `Konzept.md`.
 
 - **Minecraft 1.20.1** mit **Forge**, läuft auf einem **Server** (Mehrspieler)
 - Ziel ist zuerst ein **MVP** (kleinste funktionierende Version). Keine Zusatzfunktionen, bevor das MVP läuft.
